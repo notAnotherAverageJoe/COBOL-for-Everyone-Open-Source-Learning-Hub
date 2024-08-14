@@ -1,5 +1,10 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. PrintFile.
+      *COMPLETION DATE AUGUST 13, 2024.
+      *REMARKS.    THIS IS AN INTERACTIVE PROGRAM THAT IS DESIGNED
+      *            TO ILLUSTRATE THE USE OF COBOL.  
+      *            THIS PROGRAM WILL READ THE INFORMATION OUT OF THE
+      *            employee.dat FILE AND PRINT IT OUT!
       *    compile with ->  cobc -x -o readfiles readfiles.cob
       *    then run ./readfiles
       *     
