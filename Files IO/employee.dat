@@ -1,3 +1,8 @@
+
+
+
+
+
 Emp-ID, Name, Position, Hourly,Salary, T-Rate, Deductions
 00001,John Doe,Manager,00000,1000000,00500,0100000
 00002,Jane Smith,Hourly,00200,0000000,00100,0050000,40
@@ -9,3 +14,8 @@ Emp-ID, Name, Position, Hourly,Salary, T-Rate, Deductions
 00008,Laura Garcia,Hourly,02000,0000000,00250,0060000
 00009,James Anderson,Consultant,00000,0900000,00450,0090000
 00010,Sarah Lee,Hourly,02200,0000000,00350,0050000
+
+
+
+
+
