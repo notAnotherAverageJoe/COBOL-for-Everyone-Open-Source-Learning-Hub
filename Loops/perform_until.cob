@@ -20,4 +20,5 @@
                DISPLAY "COUNT: " NOT_YET_40
            END-PERFORM.
            STOP RUN.
+           
        

@@ -1,0 +1,10 @@
+       01  CUSTOMERS.
+           05 FIRST-NAME PIC X(25) VALUE SPACES.
+           05 LAST-NAME PIC X(25) VALUE SPACES.
+           05 AGE PIC 9(3) VALUES ZEROS.
+
+
+
+
+
+
