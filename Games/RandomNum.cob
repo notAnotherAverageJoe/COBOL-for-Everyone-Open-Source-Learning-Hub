@@ -4,11 +4,12 @@
        DATA DIVISION.
        WORKING-STORAGE SECTION.
        01 NumTries PIC 9(2) VALUE 0.
-       01 SecretNum PIC 9(2) VALUE 77.
+       01 SecretNum PIC 9(2) VALUE 0.
        01 UserGuess PIC 9(2) VALUE 0.
        01 MaxTries PIC 9(1) VALUE 5.
        
        PROCEDURE DIVISION.
+           COMPUTE SecretNum = FUNCTION RANDOM * 99 + 1
            DISPLAY "Welcome to the random number game!".
            PERFORM GAME_LOOP.
            DISPLAY "GAME OVER! Your are out of attempts".
